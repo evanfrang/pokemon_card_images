@@ -11,6 +11,7 @@ dependencies:
   - networkx
   - plotly
   - pillow  # For PIL (image handling)
+  - pandas  # Added Pandas for data manipulation
   - pip
   - pip:
       - base64io  # For working with base64-encoded data streams
