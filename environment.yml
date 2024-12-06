@@ -4,12 +4,13 @@ channels:
   - defaults
 dependencies:
   - python=3.9  # Specify Python version
+  - tensorflow   # TensorFlow library for machine learning
   - scikit-learn
   - numpy
   - matplotlib
   - networkx
   - plotly
-  - pillow  # For PIL (Pillow is the modern replacement)
+  - pillow  # For PIL (image handling)
   - pip
   - pip:
       - base64io  # For working with base64-encoded data streams
