@@ -1,0 +1,15 @@
+name: my_environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9  # Specify Python version
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - networkx
+  - plotly
+  - pillow  # For PIL (Pillow is the modern replacement)
+  - pip
+  - pip:
+      - base64io  # For working with base64-encoded data streams
