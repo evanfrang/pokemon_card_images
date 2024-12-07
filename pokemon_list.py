@@ -56,11 +56,13 @@ Sandshrew
 
 Sandslash
 
-Nidoran
+Nidoran\u2640
 
 Nidorina
 
 Nidoqueen
+
+Nidoran\u2642
 
 Nidorino
 
