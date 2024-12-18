@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9  # Specify Python version
-  #- tensorflow   # TensorFlow library for machine learning
+  - tensorflow   # TensorFlow library for machine learning
   - scikit-learn
   - numpy>=1.22.4
   - matplotlib
